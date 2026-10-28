@@ -252,7 +252,7 @@ Pages:
 Clone the repository
 
 ```bash
-git clone https://github.com/<your-github-username>/Sales_Forecasting_Dashboard.git
+git clone https://github.com/<spidey1702>/Sales_Forecasting_Dashboard.git
 ```
 
 Move into the project
@@ -319,9 +319,9 @@ B.Tech Computer Science & Engineering
 
 Aspiring Data Scientist | Machine Learning Engineer
 
-GitHub: https://github.com/<your-github-username>
+GitHub: https://github.com/spidey1702
 
-LinkedIn: https://linkedin.com/in/<your-linkedin-username>
+LinkedIn: https://linkedin.com/in/tarunkumar0
 
 ---
 
